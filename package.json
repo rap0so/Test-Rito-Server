@@ -1,0 +1,20 @@
+{
+  "name": "test-riot-server",
+  "version": "1.0.0",
+  "description": "test if league of legends riot server is online",
+  "main": "index.js",
+  "author": "William Godoy",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsc && node build"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "twilio": "^3.41.1"
+  },
+  "devDependencies": {
+    "tslint": "^6.1.2",
+    "typescript": "^3.8.3"
+  }
+}
