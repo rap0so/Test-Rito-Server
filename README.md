@@ -6,7 +6,13 @@
   </a>
 </p>
 
-> Test if riot server is online
+> Test if riot server is online and send an whatsapp message to target
+
+## Objective
+
+The Riot Games sometimes lock the server down (to maintaince or whatever),  
+and i'm not pacient to wait, so i created this script to test server stability  
+and send me a whatsapp message when the server is online again
 
 ## Install
 
